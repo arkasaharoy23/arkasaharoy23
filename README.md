@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6AD3F7&center=true&vCenter=true&random=false&width=640&height=45&lines=🎓+B.Tech+CSE+%40+Sister+Nivedita+University;☁️+Cloud+%26+Infrastructure+Enthusiast;🔧+Backend+Developer+in+Progress;🏆+Hackathon+Leader+%7C+Smart+India+Hackathon+2025;💡+Passionate+Builder+%26+Problem+Solver" alt="Typing SVG" />
+
 
 <br/>
 
